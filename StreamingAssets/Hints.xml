@@ -1,0 +1,12 @@
+<HintDefs>
+	<Hints>
+		<Hint>Tip #1: Use the [ALT] key to rotate your camera.</Hint>
+		<Hint>Tip #2: Use the [P] key to enter 'Planning View'.</Hint>
+		<Hint>Tip #3: [Ctrl + Z] will Undo the last movement or rotation of an object.</Hint>
+		<Hint>Tip #4: [Ctrl + Y] will Redo the last movement or rotation of an object.</Hint>
+		<Hint>Tip #5: Lock walls using the [L] key. This prevents any accidental movement of walls as you navigate your design.</Hint>
+		<Hint>Tip #6: When placing a product, hold [TAB] to place multiple copies.</Hint>
+		<Hint>Tip #7: Hold [Shift] and drag to rotate a product before placing it.</Hint>
+		<Hint>Tip #8: Double Left-Click a placed object to rotate it 45°.</Hint>
+	</Hints>
+</HintDefs>
